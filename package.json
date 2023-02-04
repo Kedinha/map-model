@@ -1,0 +1,26 @@
+{
+  "name": "calendario_v2",
+  "version": "1.0.0",
+  "description": "Premium full-sized drag & drop calendar & scheduler in JavaScript",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kedinha/map-model.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kedinha/map-model/issues"
+  },
+  "homepage": "https://github.com/Kedinha/map-model#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
